@@ -22,26 +22,26 @@
   </div>
 </h1>
 
-### 🔥 &nbsp; My Stats :
-<div align="center"> 
-  <a href="https://leetcode.com/UsefulSan/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=UsefulSan&theme=dark" alt="View Counter" width="300">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsefulSan&layout=compact&theme=vision-friendly-dark" alt="GH stats">
-  </a>
-  <a href="https://www.codewars.com/users/UsefulSan">
-    <img src="https://www.codewars.com/users/UsefulSan/badges/large" alt="Codewars stats">
-  </a>
-</div>
-    in progress
+<img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE3YWJhMTI0YTUwMzA4ZDUwNGYzNDFhNmExYjE5MGI1MjFhMjMxNCZjdD1n/l3q2WMhNcyFOWP280/giphy.gif" align="right" width="150"/>
 
+### 🛠 &nbsp;Tech Stack
 
-
-<div align="center">
-  <href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=UsefulSan&theme=dark&background=000000" alt="View Counter" width="300">
-</div>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![SQlite3](https://img.shields.io/badge/-SQlite3-05122A?style=flat&logo=SQlite3)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![pytest](https://img.shields.io/badge/-pytest-05122A?style=flat&logo=pytest)&nbsp;
+![celery](https://img.shields.io/badge/-celery-05122A?style=flat&logo=celery)&nbsp;
+![redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -52,6 +52,13 @@
 </a>
 </p>
  
+### ⭐ &nbsp; My Stats
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=DEB535&vCenter=true&width=180&height=20&lines=In+progress+%E2%8C%9B" alt="Typing SVG" /></a>
+    
+[![Codewars](https://www.codewars.com/users/UsefulSan/badges/large)](https://www.codewars.com/users/UsefulSan)\
+[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=UsefulSan&theme=dark)](https://leetcode.com/UsefulSan/)
+
 
 
 <!--
