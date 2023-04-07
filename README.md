@@ -24,6 +24,15 @@
 
 <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE3YWJhMTI0YTUwMzA4ZDUwNGYzNDFhNmExYjE5MGI1MjFhMjMxNCZjdD1n/l3q2WMhNcyFOWP280/giphy.gif" align="right" width="150"/>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently exploring backend development.\
+🌱 &nbsp;In my free time, I play sports and music\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at a.v.nikolaev@ro.ru! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Resume](https://disk.yandex.ru/i/9XusVrzCTNJ_Ww) for more details about me. I'm open to feedback and suggestions!
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -52,7 +61,7 @@
 </a>
 </p>
  
-### ⭐ &nbsp; My Stats
+### ⭐ &nbsp;My Stats
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=DEB535&vCenter=true&width=180&height=20&lines=In+progress+%E2%8C%9B" alt="Typing SVG" /></a>
     
