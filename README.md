@@ -26,8 +26,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently exploring backend development.\
-🌱 &nbsp;In my free time, I play sports and music\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🌱 &nbsp;In my free time, I play sports and music.\
 ✉️ &nbsp;You can shoot me an email at a.v.nikolaev@ro.ru! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://disk.yandex.ru/i/9XusVrzCTNJ_Ww) for more details about me. I'm open to feedback and suggestions!
 
