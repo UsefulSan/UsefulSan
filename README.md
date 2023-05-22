@@ -27,7 +27,7 @@
 💡 &nbsp;I like to explore new technologies and developing software solutions and quick hacks.\
 🎓 &nbsp;I'm exploring backend development.\
 🌱 &nbsp;In my free time I do sports and play music.\
-✉️ &nbsp;You can shoot me an email at a.v.nikolaev@ro.ru! I'll try my best to respond as quickly as possible.\
+✉️ &nbsp;You can shoot me an email at i@avnikolaev.ru! I'll try my best to respond as quickly as possible.\
 📄 &nbsp;Please have a look at my [Resume](https://disk.yandex.ru/i/K1oddSzObsPKWA) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE3YWJhMTI0YTUwMzA4ZDUwNGYzNDFhNmExYjE5MGI1MjFhMjMxNCZjdD1n/l3q2WMhNcyFOWP280/giphy.gif" align="right" width="150"/>
