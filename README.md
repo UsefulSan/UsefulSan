@@ -65,4 +65,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=DEB535&vCenter=true&width=180&height=20&lines=In+progress+%E2%8C%9B" alt="Typing SVG" /></a>
     
 [![Codewars](https://www.codewars.com/users/UsefulSan/badges/large)](https://www.codewars.com/users/UsefulSan)\
-[![Leetcode](https://leetcode-stats-six.vercel.app/api?username=UsefulSan&theme=dark)](https://leetcode.com/UsefulSan/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/UsefulSan?font=milonga&hide=ranking)](https://leetcode.com/UsefulSan)
+
+
+
